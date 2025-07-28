@@ -51,7 +51,7 @@ llm-math-reasoning/         # <-- This is your repo's root folder
 
 Clone this repo:
 ``bash 
-git clone https://github.com/phhvardhan/llm-math-reasoning.git
+git clone https://github.com/phhvardhan/How-transformers-do-math.git
 cd llm-math-reasoning
 
 # Install dependencies:
